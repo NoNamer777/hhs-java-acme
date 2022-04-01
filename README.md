@@ -12,11 +12,11 @@ This assignment is developed by the owner of this repository.
 ---
 
 The casus can be found in the following directory `./assets/docs/casus.pdf`
-or [here](https://github.com/nonamer777/hhs-java-acme/).
+or [here](assets/docs/casus.pdf).
 
 ## The UML diagram
 
 ---
 
 The UML diagram can be found in the following directory `./assets/images/uml_diagram.png`
-or [here](https://github.com/nonamer777/hhs-java-acme/).
+or [here](assets/images/uml_diagram.png).
